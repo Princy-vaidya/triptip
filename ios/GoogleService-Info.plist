@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>547051479870-ak332mdihvec2r72ve8f317f2p9qe9uh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.547051479870-ak332mdihvec2r72ve8f317f2p9qe9uh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCJBMCLt2Hxl-voje6U2plBzkyN8Hxrk_s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>547051479870</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.TripTip</string>
+	<key>PROJECT_ID</key>
+	<string>triptip-286809</string>
+	<key>STORAGE_BUCKET</key>
+	<string>triptip-286809.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:547051479870:ios:aa041af1ae713f1841826f</string>
+	<key>DATABASE_URL</key>
+	<string>https://triptip-286809.firebaseio.com</string>
+</dict>
+</plist>
